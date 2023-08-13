@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aathithya S</h1>
-<h3 align="center">My name is Aathithya and I'm an undergrad student at NIT Trichy. I currently live in Trichy, Tamil Nadu, India. I'm a Full Stack Web Developer. I'm interested in the Java language in itself. In my free time you may find me reading fiction, watching action films or just relaxing with a cup of coffee :)</h3>
+<h3 align="center">I'm an undergrad student at NIT Trichy. I currently live in Trichy, Tamil Nadu, India. I'm a Full Stack Web Developer. I'm interested in the Java language in itself. In my free time you may find me reading fiction, watching action films or just relaxing with a cup of coffee :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aathitira&label=Profile%20views&color=0e75b6&style=flat" alt="aathitira" /> </p>
 
